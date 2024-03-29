@@ -1,5 +1,5 @@
 # JobPortal
-you can get preview of website by clicking on this link https://arun0041.github.io/JOB-Portal-Project-/
+you can get preview of website by clicking on this link https://shorturl.at/EKNRU
  This is an online job portal website implemented using HTML,CSS,Javascript with the help of bootstrap and jquery.
 
 ## Functionalities
